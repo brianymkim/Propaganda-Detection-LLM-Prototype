@@ -4,11 +4,9 @@ This prototype serves as a foundational demonstration of a propaganda detection 
 ## Installation & Setup
 To run the prototype, install the required dependencies:
 
-bash
 pip install streamlit torch transformers sentence-transformers
 
 
-Run the prototype script using:
+Run the prototype script in a directory where propaganda_detector.py is located using:
 
-bash
 streamlit run propaganda_detector.py
