@@ -23,3 +23,16 @@ Read in new text (simulating a news story)
 Identify statements linked to known propaganda narratives
 Tag potential propaganda
 Provide simple explanations of why the text might be propaganda
+
+
+### Example Inputs
+1. "The COVID-19 vaccine contains microchips that will allow the government to
+control our minds.”
+2. "The mainstream media is controlled by a secret cabal of elites who manipulate
+all the news."
+3. "Global warming is a myth created by the liberal media to scare people."
+4. Vaccines are dangerous and cause autism.”
+5. "Climate change is a serious issue that requires global cooperation to address."
+6. "The Earth is a spherical planet orbiting the sun in our solar system."
+7. “The weather forecast predicts rain tomorrow afternoon."
+8. "A recent study suggests that regular exercise can improve mental health."
